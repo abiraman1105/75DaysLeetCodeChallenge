@@ -107,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/abiraman1105/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/abiraman1105/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/abiraman1105/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/abiraman1105/75DaysLeetCodeChallenge/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
