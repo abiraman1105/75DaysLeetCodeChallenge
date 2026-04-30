@@ -10,7 +10,7 @@ class Solution:
             countT[j] = countT.get(j, 0) + 1
 
         for k in countS:
-            if k not in countT:countT[k] = countT.get(0)
+            if k not in countT:return False
             if countS[k] != countT[k]: return False
 
         return True
