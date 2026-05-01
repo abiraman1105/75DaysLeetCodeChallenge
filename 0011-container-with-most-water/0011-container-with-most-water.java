@@ -7,6 +7,7 @@ class Solution {
         int w = 0;
         int area = 0;
         while (l < r){
+            w = r - l;
             if (height[l] < height[r]){
                 h = height[l];
                 l++;
@@ -16,7 +17,7 @@ class Solution {
                 r--;
             }
 
-            w = r - l + 1;
+            
             area = h * w;
             if (area > maxArea){
                 maxArea = area;
